@@ -1,2 +1,2 @@
 # PetStoreAPIAutomation
-This Project automates API using Java and RestAssured Libraries
+This Project automates API's using Java and RestAssured Libraries
